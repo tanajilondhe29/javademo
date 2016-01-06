@@ -45,3 +45,6 @@ C:\git\javademo>git tag -a tag_name -m "tag_messgae"
 
 5.Push git tag changes on remote 
 C:\git\javademo>git push –tags
+
+
+The git checkout command is used to switch branches and check content out into your working directory.

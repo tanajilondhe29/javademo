@@ -28,3 +28,20 @@ v1.3
 v1.4
 v1.4-lw
 v1.5
+
+steps
+
+1.Go to the repository first
+C:\git>cd javademo
+
+2.Switch current version to particular tag 
+C:\git\javademo>git checkout tags/tag_name
+
+3.List all tags
+C:\git\javademo>git tag
+
+4.Create tag for particular version
+C:\git\javademo>git tag -a tag_name -m "tag_messgae"
+
+5.Push git tag changes on remote 
+C:\git\javademo>git push –tags

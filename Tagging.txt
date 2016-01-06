@@ -1,0 +1,3 @@
+Creating Tags
+
+Git uses two main types of tags: lightweight and annotated.

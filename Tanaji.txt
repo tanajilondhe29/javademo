@@ -1,7 +1,0 @@
-welcome to git toturial.
-
-Git clone.
-
-What is a version control system?
-
-Git clone particular version of remote repository.
